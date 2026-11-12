@@ -1,14 +1,14 @@
 {
-            "condicao_atual": "Tempestade",
-            "temperatura_celsius": 24,
-            "pressao_hpa": 1015,
-            "umidade_relativa": 79,
-            "previsao_horario": "17:48",
+            "condicao_atual": "Chuva",
+            "temperatura_celsius": 22.7,
+            "pressao_hpa": 1016,
+            "umidade_relativa": 83,
+            "previsao_horario": "18:40",
             "eventos_futuros": [
                 {
-                    "horario": "17:30",
-                    "tipo_evento": "Tempestade",
-                    "alerta_principal": "TEMPESTADE COM RAIOS E RAJADAS DE VENTO. DURAÇÃO APROXIMADA DE 50 MINUTOS."
+                    "horario": "18:40",
+                    "tipo_evento": "Chuva",
+                    "alerta_principal": "Chuva leve. Duração aproximada de menos de 1 hora."
                 }
             ]
 }
