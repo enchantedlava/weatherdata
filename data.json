@@ -1,14 +1,14 @@
 {
             "condicao_atual": "Ensolarado",
-            "temperatura_celsius": 27,
-            "pressao_hpa": 1018,
-            "umidade_relativa": 59,
-            "previsao_horario": "10:40",
+            "temperatura_celsius": 28.4,
+            "pressao_hpa": 1015,
+            "umidade_relativa": 50,
+            "previsao_horario": "12:50",
             "eventos_futuros": [
                 {
-                    "horario": "12:00",
+                    "horario": "13:30",
                     "tipo_evento": "Tempestade",
-                    "alerta_principal": "A partir das 12:00 tempo propício para formação de tempestades."
+                    "alerta_principal": "Tempestade para região NORTE da cidade."
                 }
             ]
 }
