@@ -1,14 +1,19 @@
 {
             "condicao_atual": "Nublado",
-            "temperatura_celsius": 29.6,
-            "pressao_hpa": 1014,
-            "umidade_relativa": 49,
-            "previsao_horario": "14:18",
+            "temperatura_celsius": 19,
+            "pressao_hpa": 1013,
+            "umidade_relativa": 53,
+            "previsao_horario": "15:29",
             "eventos_futuros": [
                 {
                     "horario": "14:00",
                     "tipo_evento": "Tempestade",
                     "alerta_principal": "Tempestades isoladas em vários pontos da cidade."
-                }
+                },
+                        {
+                    "horario": "15:00",
+                    "tipo_evento": "Vento",
+                    "alerta_principal": "Vento forte próximo a tempestades."
+                        }
             ]
 }
