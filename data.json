@@ -1,19 +1,14 @@
 {
             "condicao_atual": "Ensolarado",
             "temperatura_celsius": 29.6,
-            "pressao_hpa": 1013,
-            "umidade_relativa": 57,
-            "previsao_horario": "13:43",
+            "pressao_hpa": 1014,
+            "umidade_relativa": 49,
+            "previsao_horario": "14:15",
             "eventos_futuros": [
                 {
                     "horario": "14:00",
                     "tipo_evento": "Tempestade",
                     "alerta_principal": "Tempestades isoladas em vários pontos da cidade."
                 }
-                        {
-                    "horario": "14:00",
-                    "tipo_evento": "Tempestade",
-                    "alerta_principal": "TEMPESTADE NA ZONA NORTE DA CIDADE. POSSIBILIDADE DE RAJADAS DE VENTO E RAIOS."
-                        }
             ]
 }
