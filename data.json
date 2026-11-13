@@ -3,12 +3,12 @@
             "temperatura_celsius": 28.4,
             "pressao_hpa": 1015,
             "umidade_relativa": 50,
-            "previsao_horario": "12:50",
+            "previsao_horario": "13:00",
             "eventos_futuros": [
                 {
                     "horario": "13:30",
                     "tipo_evento": "Tempestade",
-                    "alerta_principal": "Tempestade para região NORTE da cidade."
+                    "alerta_principal": "Tempestades isoladas em vários pontos da cidade."
                 }
             ]
 }
