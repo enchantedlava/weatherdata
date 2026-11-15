@@ -1,9 +1,9 @@
 {
-            "condicao_atual": "Chuva",
-            "temperatura_celsius": 24.2,
-            "pressao_hpa": 1014,
-            "umidade_relativa": 71,
-            "previsao_horario": "07:40",
+            "condicao_atual": "Nublado",
+            "temperatura_celsius": 27.8,
+            "pressao_hpa": 1012,
+            "umidade_relativa": 49,
+            "previsao_horario": "08:36",
             "eventos_futuros": [
             {
                     "horario": "08:40",
