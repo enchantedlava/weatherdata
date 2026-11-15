@@ -1,14 +1,14 @@
 {
-            "condicao_atual": "Nublado",
+            "condicao_atual": "Chuva",
             "temperatura_celsius": 27.8,
             "pressao_hpa": 1012,
             "umidade_relativa": 49,
-            "previsao_horario": "08:36",
+            "previsao_horario": "08:43",
             "eventos_futuros": [
             {
                     "horario": "08:40",
                     "tipo_evento": "Tempestade",
-                    "alerta_principal": "TEMPESTADE COM RAIOS E CHUVA INTENSA."
+                    "alerta_principal": "ATENÇÃO: INSTABILIDADE ATMOSFÉRICA EXTREMA. TEMPESTADES FORTES AO LONGO DO DIA."
             }
             ]
 }
