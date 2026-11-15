@@ -1,9 +1,9 @@
 {
-            "condicao_atual": "Nublado",
-            "temperatura_celsius": 31,
+            "condicao_atual": "Ensolarado",
+            "temperatura_celsius": 27,
             "pressao_hpa": 1009,
-            "umidade_relativa": 43,
-            "previsao_horario": "13:35",
+            "umidade_relativa": 77,
+            "previsao_horario": "16:38",
             "eventos_futuros": [
             
             ]
