@@ -1,9 +1,9 @@
 {
-            "condicao_atual": "Limpo",
-            "temperatura_celsius": 25.4,
-            "pressao_hpa": 1011,
+            "condicao_atual": "Garoa",
+            "temperatura_celsius": 24,
+            "pressao_hpa": 1012,
             "umidade_relativa": 81,
-            "previsao_horario": "20:19",
+            "previsao_horario": "12:04",
             "eventos_futuros": [
             
             ]
