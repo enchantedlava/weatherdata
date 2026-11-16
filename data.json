@@ -1,14 +1,10 @@
 {
-            "condicao_atual": "Nublado",
-            "temperatura_celsius": 26.4,
-            "pressao_hpa": 1007,
-            "umidade_relativa": 58,
-            "previsao_horario": "16:11",
+            "condicao_atual": "Limpo",
+            "temperatura_celsius": 24.4,
+            "pressao_hpa": 1009,
+            "umidade_relativa": 75,
+            "previsao_horario": "19:05",
             "eventos_futuros": [
-             {
-                    "horario": "16:40",
-                    "tipo_evento": "Tempestade",
-                    "alerta_principal": "ALERTA DE TEMPESTADE: CHUVA COM RAIOS E VENTOS FORTES."
-             }
+             
             ]
 }
