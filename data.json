@@ -1,9 +1,9 @@
 {
-            "condicao_atual": "Nublado",
-            "temperatura_celsius": 29,
+            "condicao_atual": "Tempestade",
+            "temperatura_celsius": 20.6,
             "pressao_hpa": 1009,
-            "umidade_relativa": 61,
-            "previsao_horario": "12:18",
+            "umidade_relativa": 57,
+            "previsao_horario": "13:20",
             "eventos_futuros": [
              {
                     "horario": "13:00",
